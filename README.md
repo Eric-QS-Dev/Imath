@@ -69,4 +69,4 @@ It is fine for learning purposes, but for larger projects, a safer approach is r
 
 ## Author
 
-Created by [Your Name](https://github.com/your-username)
+Created by [Eric QS Dev](https://github.com/Eric-QS-Dev)
